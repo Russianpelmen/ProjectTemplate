@@ -1,6 +1,5 @@
 ﻿#pragma once
+#include "..\Resource\resource.h"
 
 #include <iostream>
 #include <windows.h>
-
-#include "..\Resource\resource.h"
